@@ -2,10 +2,11 @@
 
 ## Requirements
 
+- Python 3 or higher
 - lxml
 - requests
 
-
+	
 ## Examples
 
 ### searching books about 'programming'
